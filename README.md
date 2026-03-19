@@ -6,13 +6,18 @@ A modern, full-stack real estate listing platform built with **Next.js 14**, **S
 
 ## 🌐 Live Demo
 
-> _Add your Vercel/deployment URL here_
+> https://real-estate-micro-listing-plat-git-0b67b9-ishak-gauris-projects.vercel.app/
 
 ---
 
 ## 📸 Screenshots
 
-> _Add UI screenshots of your listing page and detail page here_
+> <img width="1893" height="859" alt="image" src="https://github.com/user-attachments/assets/1afffcbe-3c91-4575-885a-d005c93eccf3" />
+<img width="1886" height="730" alt="image" src="https://github.com/user-attachments/assets/f2bbcd54-2194-444d-98f7-b9cf2b8a6b24" />
+<img width="1647" height="493" alt="image" src="https://github.com/user-attachments/assets/f5756f9f-73bf-4bd8-b503-ccf2da500ad6" />
+<img width="1870" height="848" alt="image" src="https://github.com/user-attachments/assets/c61f1a9a-c8f1-4153-a52d-f9c9a1be0e71" />
+
+
 
 ---
 
