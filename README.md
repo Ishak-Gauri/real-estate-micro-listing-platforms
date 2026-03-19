@@ -16,6 +16,12 @@ A modern, full-stack real estate listing platform built with **Next.js 14**, **S
 <img width="1886" height="730" alt="image" src="https://github.com/user-attachments/assets/f2bbcd54-2194-444d-98f7-b9cf2b8a6b24" />
 <img width="1647" height="493" alt="image" src="https://github.com/user-attachments/assets/f5756f9f-73bf-4bd8-b503-ccf2da500ad6" />
 <img width="1870" height="848" alt="image" src="https://github.com/user-attachments/assets/c61f1a9a-c8f1-4153-a52d-f9c9a1be0e71" />
+<img width="1800" height="728" alt="image" src="https://github.com/user-attachments/assets/3c117e87-6ffd-4cfa-bcf1-4194af32db25" />
+<img width="1158" height="744" alt="image" src="https://github.com/user-attachments/assets/eabc387e-c4a5-49e1-8ad9-bfae8679cdee" />
+<img width="1222" height="759" alt="image" src="https://github.com/user-attachments/assets/0ce018e8-4bd4-4d64-a45b-7053f3e27989" />
+
+
+
 
 
 
